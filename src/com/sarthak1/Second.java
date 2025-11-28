@@ -1,4 +1,4 @@
-package com.sarthak;
+package com.sarthak1;
 
 import java.util.Scanner;
 
