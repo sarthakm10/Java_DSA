@@ -1,4 +1,4 @@
 /bin/
-/lib/
-/.vscode/
-/oracleJdk-21/
+/out/
+/.idea/
+Java_DSA.iml
